@@ -32,7 +32,7 @@ public class Main {
             birthRate = population / 1000 * 17;
             mortalityRate = population / 1000 * 8;
             population += birthRate - mortalityRate;
-            System.out.printf("«Год %s,численность населения составляет %s%n", year, population);
+            System.out.println(" « Год " +year+ " численность населения составляет " + population+ "»");
         }
         System.out.println();
         System.out.println("Задача-4");
