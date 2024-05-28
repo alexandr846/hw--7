@@ -83,8 +83,8 @@ public class Main {
                 int i = 0;
                 i < uperBound; i += period) {
             if (i > lowerBound) {
-                System.out.println(i);// проверил все выводится корректно.
-
+                System.out.println(i);// проверил все выводится корректно.!!!
+                // комплексно по задачам делал как на разборе внес некоторые изменения,дополнения
             }
         }
     }
